@@ -20,7 +20,7 @@ public class WordCRUD implements ICRUD{
         String meaning = s.nextLine();
         return new Word(0,level,word,meaning);
     }
-    public void addWordTOList(){
+    public void addItem(){
         Word one = (Word)add();
         list.add(one);
         System.out.println("새 단어가 단어장에 추가되었습니다. ");
@@ -75,6 +75,25 @@ public class WordCRUD implements ICRUD{
         Word word = list.get(idlist.get(num-1));
         word.setMeaning(meaning);
         System.out.print("단어가 수정되었습니다.");
+
+    }
+
+    public void deleteItem() {
+        System.out.print("=> 삭제할 단어 검색 : ");
+        String key = s.next();
+        ArrayList<Integer> idlist = this.listAll(key);
+        System.out.print("=> 삭제할 번호 선택 : ");
+        int num = s.nextInt();
+        s.nextLine();
+        System.out.print("=> 정말로 삭제하실래요?(Y/n)");
+        String answer = s.next();
+        if(answer.equalsIgnoreCase("Y")){
+           list.remove((int)idlist.get(num-1));
+           System.out.println("단어가 삭제되었습니다.");
+        }
+        else{
+            System.out.println("최소되었습니다.");
+        }
 
     }
 }

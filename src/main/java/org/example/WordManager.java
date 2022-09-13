@@ -28,13 +28,16 @@ public class WordManager {
             int menu = selectMenu();
             if (menu == 0) break;
             else if(menu == 4) {
-                wordCRUD.addWordTOList();
+                wordCRUD.addItem();
             }// 단어추가
             else if(menu == 1) {
                 wordCRUD.listAll();
             }// 단어 보여주기
             else if(menu == 5) { //update
                 wordCRUD.updateItem();
+            }// 단어 보여주기
+            else if(menu == 6) { //update
+                wordCRUD.deleteItem();
             }// 단어 보여주기
         }
     }
