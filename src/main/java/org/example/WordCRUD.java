@@ -1,5 +1,8 @@
 package org.example;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.sql.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -88,11 +91,26 @@ public class WordCRUD implements ICRUD{
         System.out.print("=> 정말로 삭제하실래요?(Y/n)");
         String answer = s.next();
         if(answer.equalsIgnoreCase("Y")){
-           list.remove((int)idlist.get(num-1));
+           list.remove((int)idlist.get(num-1));//remove 안 integer
            System.out.println("단어가 삭제되었습니다.");
         }
         else{
             System.out.println("최소되었습니다.");
+        }
+
+    }
+
+    public void saveFile(){
+        try {
+            PrintWriter pr = new PrintWriter(new FileWriter("test.txt"));
+            for(Word one : list){
+                pr.write(one.toFileString());
+                pr.write("\n");
+            }
+            pr.close();
+            System.out.println("==> 데이터 저장 완료 !!!");
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
 
     }

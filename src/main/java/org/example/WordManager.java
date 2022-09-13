@@ -36,8 +36,11 @@ public class WordManager {
             else if(menu == 5) { //update
                 wordCRUD.updateItem();
             }// 단어 보여주기
-            else if(menu == 6) { //update
+            else if(menu == 6) { //delete
                 wordCRUD.deleteItem();
+            }// 단어 보여주기
+            else if(menu == 7) { //파일저장
+                wordCRUD.saveFile();
             }// 단어 보여주기
         }
     }
