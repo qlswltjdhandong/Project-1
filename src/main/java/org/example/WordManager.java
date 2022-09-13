@@ -33,6 +33,9 @@ public class WordManager {
             else if(menu == 1) {
                 wordCRUD.listAll();
             }// 단어 보여주기
+            else if(menu == 5) { //update
+                wordCRUD.updateItem();
+            }// 단어 보여주기
         }
     }
 }
