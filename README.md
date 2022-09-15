@@ -12,3 +12,4 @@
 
 ### 5. 단어 수정 실행화면 캡처
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%201.png?raw=true">
+<img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%202.png?raw=true">
