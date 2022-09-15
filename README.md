@@ -15,12 +15,17 @@
 ### (5) 단어 수정 실행화면 캡처
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%201.png?raw=true">
 
-##### <수정확인>
+##### <수정 확인>
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%202.png?raw=true">
 
 
 ### (6) 단어 삭제 실행화면 캡처
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-15%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.06.46.png?raw=true">
 
-##### <삭제확인>
+##### <삭제 확인>
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-15%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.07.08.png?raw=true">
+
+### (7) 파일 저장 실행화면 캡처
+<img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC.png?raw=true">
+
+##### <파일 저장 확인>
