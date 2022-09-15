@@ -29,4 +29,4 @@
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC.png?raw=true">
 
 ##### <파일 저장 확인>
-<img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.png?raw=true>
+<img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.png?raw=true>">
