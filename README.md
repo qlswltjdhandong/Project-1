@@ -30,3 +30,6 @@
 
 ##### <파일 저장 확인>
 <img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.png?raw=true>">
+
+### 파일 저장 후 다시 실행하고 1번을 실행한 실행화면 캡처
+<img src = "https://github.com/qlswltjdhandong/Project-1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-15%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.26.13.png?raw=true">
